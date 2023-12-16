@@ -1,4 +1,4 @@
-module github.com/TheDifferentGuy/mysql-api.git
+module github.com/TheDifferentGuy/mysql-api
 
 go 1.21.3
 
